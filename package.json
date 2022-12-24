@@ -4,7 +4,8 @@
   "description": "Curso de node JS",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "type": "module",
   "author": "Alexander",
